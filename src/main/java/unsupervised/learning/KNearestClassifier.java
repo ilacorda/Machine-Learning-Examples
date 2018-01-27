@@ -1,4 +1,4 @@
-package unsupervised;
+package unsupervised.learning;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
